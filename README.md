@@ -4,3 +4,4 @@
 - [觀察者模式 Observer](Observer/Observer.md)
 - [裝飾模式 Decorator](Decorator/Decorator.md)
 - [工廠模式 Factory Method](Factory/Factory.md)
+- [抽象工廠 Abstract Factory](Factory/AbstractFactory.md)
