@@ -6,3 +6,4 @@
 - [工廠模式 Factory Method](Factory/Factory.md)
 - [抽象工廠 Abstract Factory](Factory/AbstractFactory.md)
 - [單例模式 Singleton](Singleton/Singleton.md)
+- [命令模式 Command](Command/Command.md)
