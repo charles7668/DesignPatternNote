@@ -7,3 +7,4 @@
 - [抽象工廠 Abstract Factory](Factory/AbstractFactory.md)
 - [單例模式 Singleton](Singleton/Singleton.md)
 - [命令模式 Command](Command/Command.md)
+- [適配器模式 Adapter](Adapter/Adapter.md)
