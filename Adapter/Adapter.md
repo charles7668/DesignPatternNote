@@ -12,15 +12,15 @@
 
 ### 結構示意圖
 
-1. 物件適配器
+1. 物件適配器  
    ![object adapter diagram](Image/object%20adapter%20diagram.jpg)
 
-2. 類別適配器
+2. 類別適配器  
    ![class adapter diagram](Image/class%20adapter%20diagram.jpg)
 
 ## 埸景問題與示例
 
-### 1. 今天對方提供了一個內有 GetData 的函式庫 Test，但你的使用端希望使用的是 GetTemprature 來方辨自己判斷這個資料是溫度
+### 1. 今天對方提供了一個內有 GetData 的函式庫 Test，但你的使用端希望使用的是 GetTemperature 來方便自己判斷這個資料是溫度
 
 首先建立函式庫 Test
 
