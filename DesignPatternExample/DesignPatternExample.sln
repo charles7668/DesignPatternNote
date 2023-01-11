@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonExample1", "Single
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandExample1", "CommandExample1\CommandExample1.csproj", "{2CF14BCA-B7F4-485D-BBA6-2C5A6302AA8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterExample1", "AdapterExample1\AdapterExample1.csproj", "{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterExample1", "AdapterExample1\AdapterExample1.csproj", "{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeExample1", "FacadeExample1\FacadeExample1.csproj", "{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDiagram", "FacadeDiagram\FacadeDiagram.csproj", "{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
