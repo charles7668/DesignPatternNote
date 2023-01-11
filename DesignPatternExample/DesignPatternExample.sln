@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandExample1", "CommandE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterExample1", "AdapterExample1\AdapterExample1.csproj", "{A079BDF4-A00E-43DF-AEAC-2AE1DF2EBB20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeExample1", "FacadeExample1\FacadeExample1.csproj", "{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeExample1", "FacadeExample1\FacadeExample1.csproj", "{111531EC-9FFA-48FE-B6CA-D45E1BC7EF1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeDiagram", "FacadeDiagram\FacadeDiagram.csproj", "{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDiagram", "FacadeDiagram\FacadeDiagram.csproj", "{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodExample1", "TemplateMethodExample1\TemplateMethodExample1.csproj", "{EB990F8B-9530-4243-83B9-83D5D8AD29F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E27B06F9-E53E-4636-A0BF-23BDC5B2BA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB990F8B-9530-4243-83B9-83D5D8AD29F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB990F8B-9530-4243-83B9-83D5D8AD29F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB990F8B-9530-4243-83B9-83D5D8AD29F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB990F8B-9530-4243-83B9-83D5D8AD29F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
