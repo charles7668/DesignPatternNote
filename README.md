@@ -12,3 +12,4 @@
 - [模板方法 TemplateMethod](./Template/Template.md)
 - [迭代器 Iterator](./Iterator/Iterator.md)
 - [組合模式 Composite](./Composite/Composite.md)
+- [狀態模式 State](./State/State.md)
