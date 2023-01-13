@@ -13,3 +13,4 @@
 - [迭代器 Iterator](./Iterator/Iterator.md)
 - [組合模式 Composite](./Composite/Composite.md)
 - [狀態模式 State](./State/State.md)
+- [代理模式 Proxy](./Proxy/Proxy.md)
