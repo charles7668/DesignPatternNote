@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyExample1", "ProxyExamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderExample1", "BuilderExample1\BuilderExample1.csproj", "{6D3ABC26-ABD4-4E95-9658-2F5B6D7BA17B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeExample1", "PrototypeExample1\PrototypeExample1.csproj", "{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeExample1", "PrototypeExample1\PrototypeExample1.csproj", "{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorExample1", "MediatorExample1\MediatorExample1.csproj", "{32CA779E-C58F-4384-B7CD-511E5924F50C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
