@@ -15,3 +15,4 @@
 - [狀態模式 State](./State/State.md)
 - [代理模式 Proxy](./Proxy/Proxy.md)
 - [建造者模式 Builder](./Builder/Builder.md)
+- [原型模式 Prototype](./Prototype/Prototype.md)
