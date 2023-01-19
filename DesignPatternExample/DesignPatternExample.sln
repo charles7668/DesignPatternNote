@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderExample1", "BuilderE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeExample1", "PrototypeExample1\PrototypeExample1.csproj", "{DD2C2B3D-0805-4E69-A16A-9B6B78D64143}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorExample1", "MediatorExample1\MediatorExample1.csproj", "{32CA779E-C58F-4384-B7CD-511E5924F50C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorExample1", "MediatorExample1\MediatorExample1.csproj", "{32CA779E-C58F-4384-B7CD-511E5924F50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyExample1", "StrategyExample1\StrategyExample1.csproj", "{71E7DC6E-52A3-42B2-9AFF-5B2FADB470D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32CA779E-C58F-4384-B7CD-511E5924F50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E7DC6E-52A3-42B2-9AFF-5B2FADB470D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E7DC6E-52A3-42B2-9AFF-5B2FADB470D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E7DC6E-52A3-42B2-9AFF-5B2FADB470D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E7DC6E-52A3-42B2-9AFF-5B2FADB470D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,3 +17,4 @@
 - [建造者模式 Builder](./Builder/Builder.md)
 - [原型模式 Prototype](./Prototype/Prototype.md)
 - [中介者模式 Mediator](./Mediator/Mediator.md)
+- [策略模式 Strategy](./Strategy/Strategy.md)
